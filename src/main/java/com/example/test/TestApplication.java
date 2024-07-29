@@ -14,4 +14,6 @@ public class TestApplication {
 
     void aa() {
     }
+    void aa1() {
+    }
 }
