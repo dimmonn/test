@@ -12,4 +12,8 @@ public class TestApplication {
         SpringApplication.run(TestApplication.class, args);
     }
 
+    void aa() {
+    }
+    void aa1() {
+    }
 }
