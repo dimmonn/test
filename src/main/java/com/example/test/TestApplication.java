@@ -20,18 +20,17 @@ public class TestApplication {
         System.out.println();
         System.out.println();
         SpringApplication.run(TestApplication.class, args);
-
-
-
-
-  //todo
-
-        //todo
+        TestApplication testApplication = new TestApplication();
+        new TestApplication().aa3();
     }
 
 
     void aa() {
     }
     void aa1() {
+    }
+    void aa2() {
+    }
+    void aa3() {
     }
 }
