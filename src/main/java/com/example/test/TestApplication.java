@@ -19,7 +19,7 @@ public class TestApplication {
         System.out.println();
         SpringApplication.run(TestApplication.class, args);
         TestApplication testApplication = new TestApplication();
-        new TestApplication().aa2();
+        new TestApplication().aa3();
     }
 
     void aa() {
@@ -27,5 +27,7 @@ public class TestApplication {
     void aa1() {
     }
     void aa2() {
+    }
+    void aa3() {
     }
 }
