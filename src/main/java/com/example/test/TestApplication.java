@@ -20,7 +20,7 @@ public class TestApplication {
 
     System.out.println();
     System.out.println();
-    new TestApplication().aa4();
+    new TestApplication().aa2();
     new TestApplication().aa3();
   }
 
