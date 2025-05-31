@@ -19,11 +19,13 @@ public class TestApplication {
         System.out.println();
         SpringApplication.run(TestApplication.class, args);
         TestApplication testApplication = new TestApplication();
-        System.out.println();
+        new TestApplication().aa2();
     }
 
     void aa() {
     }
     void aa1() {
+    }
+    void aa2() {
     }
 }
