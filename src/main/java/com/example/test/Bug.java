@@ -3,7 +3,7 @@ package com.example.test;
 public class Bug {
 
   public static void main(String[] args) {
-    aa2();
+    aa3();
   }
 
   static void aa() {
@@ -13,6 +13,12 @@ public class Bug {
     System.out.println();
   }
   static void aa2() {
+    System.out.println();
+  }
+  static void aa3() {
+    System.out.println();
+  }
+  static void aa4() {
     System.out.println();
   }
 }
