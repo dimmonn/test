@@ -3,7 +3,7 @@ package com.example.test;
 public class Bug {
 
   public static void main(String[] args) {
-    aa3();
+    aa4();
   }
 
   static void aa() {
@@ -18,6 +18,7 @@ public class Bug {
   static void aa3() {
     System.out.println();
   }
+  //TODO stuff
   static void aa4() {
     System.out.println();
   }
