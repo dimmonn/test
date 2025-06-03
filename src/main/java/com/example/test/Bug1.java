@@ -9,4 +9,5 @@ public class Bug1 {
   }
   void aa2(){}
   static void aa3(){}
+  static void aa4(){}
 }
