@@ -8,4 +8,5 @@ public class Bug1 {
     aa1();
   }
   void aa2(){}
+  void aa3(){}
 }
